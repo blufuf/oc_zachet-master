@@ -14,9 +14,9 @@ public class ProductController {
         List<Product> products = new ArrayList<>();
         Product product1 = new Product(1, "Porsche");
         Product product2 = new Product(2, "Tesla");
-        Product product3 = new Product(2, "Toyota");
-        Product product4 = new Product(2, "Lada");
-        Product product5 = new Product(2, "Mazda");
+        Product product3 = new Product(3, "Toyota");
+        Product product4 = new Product(4, "Lada");
+        Product product5 = new Product(5, "Mazda");
         products.add(product1);
         products.add(product2);
         products.add(product3);
