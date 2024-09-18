@@ -8,7 +8,7 @@ mvn clean package
 sudo mkdir -p /var/www/app
 sudo cp target/zachet_admin_oc-0.0.1-SNAPSHOT.jar /var/www/app
 sudo chmod 755 /var/www/app/zachet_admin_oc-0.0.1-SNAPSHOT.jar
-sudo nano /etc/systemd/system/simple-api-service.service
+sudo nano /etc/systemd/system/java-api-service.service
 
 _________________________________________________________________
 [Unit]
