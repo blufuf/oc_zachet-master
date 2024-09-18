@@ -16,9 +16,9 @@ public class UserController {
         List usr = new ArrayList<>();
         User user1 = new User(1, "Ilya");
         User user2 = new User(2, "Nikita");
-        User user3 = new User(1, "Danya");
-        User user4 = new User(1, "Denis");
-        User user5 = new User(1, "Kirill");
+        User user3 = new User(3, "Danya");
+        User user4 = new User(4, "Denis");
+        User user5 = new User(5, "Kirill");
         usr.add(user1);
         usr.add(user2);
         usr.add(user3);
